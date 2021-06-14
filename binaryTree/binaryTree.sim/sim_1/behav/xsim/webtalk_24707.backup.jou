@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sun May 30 15:27:22 2021
+# Process ID: 24707
+# Current directory: /heplnw039/tschuh/vivadoProjects/binaryTree/binaryTree.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /heplnw039/tschuh/vivadoProjects/binaryTree/binaryTree.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /heplnw039/tschuh/vivadoProjects/binaryTree/binaryTree.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /heplnw039/tschuh/vivadoProjects/binaryTree/binaryTree.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /heplnw039/tschuh/vivadoProjects/binaryTree/binaryTree.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
